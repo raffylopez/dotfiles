@@ -1,4 +1,3 @@
-Raf's Personal _vimrc File
-==========================
+## A Vimrc File
 
-Currently using this _vimrc under gvim in Windows
+
