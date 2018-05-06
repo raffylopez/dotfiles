@@ -1,3 +1,3 @@
 ## A Vimrc File
 
-foo
+An example vimrc file
